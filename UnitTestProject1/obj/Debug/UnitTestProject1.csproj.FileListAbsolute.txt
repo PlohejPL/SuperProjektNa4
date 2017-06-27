@@ -1,0 +1,7 @@
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\bin\Debug\PRO-BYT-kalendarz.pdb
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\UnitTestProject1\bin\Debug\PRO-BYT-kalendarz.exe

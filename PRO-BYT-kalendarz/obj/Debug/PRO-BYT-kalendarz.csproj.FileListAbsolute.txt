@@ -1,0 +1,20 @@
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.pdb
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.csprojResolveAssemblyReference.cache
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.Properties.Resources.resources
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.csproj.GenerateResource.Cache
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.pdb
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.MainForm.resources
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.Views.AddEventForm.resources
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.exe.config
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.exe
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.pdb
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.exe
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.pdb
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.csprojResolveAssemblyReference.cache
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.Views.AddEventForm.resources
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.MainForm.resources
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO_BYT_kalendarz.Properties.Resources.resources
+E:\zz visual 13 c# programy\PRO-BYT kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.csproj.GenerateResource.Cache
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.exe.config
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\bin\Debug\PRO-BYT-kalendarz.exe
+E:\Visual 13 prog c#\PRO-BYT-kalendarz\PRO-BYT-kalendarz\obj\Debug\PRO-BYT-kalendarz.exe
